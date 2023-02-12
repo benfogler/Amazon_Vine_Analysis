@@ -9,6 +9,7 @@ items will allow us to determine if there is any bias toward favorable reveiws.
 ##
 
 * Number of Vine and Non-Vine member reviews
+
 ![Vine_members](https://user-images.githubusercontent.com/114610539/218334367-4857d75d-ae8b-4f3b-87e7-6693776c3b21.png)
 
 
